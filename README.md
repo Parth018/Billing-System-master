@@ -1,10 +1,10 @@
 # Billing-System
-A GUI Based Complete Store Billing System in java that generates Invoice of each sale.
+A GUI Based Complete Store Billing System in Java that generates an Invoice for each sale.
 
-      Requirments
+      Requirements
       
 This Project Requires.
 
 Wamp Server Installed (Running).
 
-Create database  "caddey"  and three tables "sale" , "users" and "stock".
+Create a  database  "caddy"  and three tables "sale" , "users" and "stock".
